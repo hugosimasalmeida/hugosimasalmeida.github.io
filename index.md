@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![Image of fast.ai logo](images/logo.png)
+## My Briefs/collection on AI and tests
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[Debate on CRISPR ML attempt youtube video](https://youtu.be/5uVvVmZPfzo)
+[Bill Gates inspirational youtube video](https://youtu.be/vapTJLUSvpQ)
+[Jeremy Howard inspirational youtube video on CNNs](https://youtu.be/hkBa9pU-H48)
