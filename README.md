@@ -12,4 +12,4 @@ Jeremy Howard's inspirational youtube video on CNNs
 
 Robert Downey Jr.'s How Far is Too Far? | The Age of A.I. youtube video
 
-(Click on index.md in for the links to the videos)
+(Click on index.md for the links to the videos)
